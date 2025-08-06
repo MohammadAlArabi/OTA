@@ -1,0 +1,11 @@
+Changelog
+=========
+
+06/08/2025
+---------------
+- Initial official release
+- Leica and Dolby included
+- Based on OSS vendor and Waffle kernel (KSU NEXT + SUSFS)
+- Gapps core and vanilla both variant available
+- ROM comes with Dynamic partition and EXT4 system
+- Clean flash is mandatory
