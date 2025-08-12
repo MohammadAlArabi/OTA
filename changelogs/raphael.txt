@@ -1,8 +1,17 @@
 Changelog
 =========
 
+12/08/2025
+----------
+- Synced with latest source
+- Fixed old vendor security patch 
+- Fixed portrait crash in Leica
+- Fixed soundpicker crash
+- Fixed adaptive brightness
+- Some minor changes
+
 06/08/2025
----------------
+----------
 - Initial official release
 - Leica and Dolby included
 - Based on OSS vendor and Waffle kernel (KSU NEXT + SUSFS)
