@@ -1,6 +1,16 @@
 Changelog
 =========
 
+04/12/2025
+----------
+- Sync with latest source
+- Rework on powerhint.json for better efficiency
+- Enable config_supportDoubleTapWake overlay
+- Move CarrierConfig to RRO
+- Update CarrierConfig from nabu OS1.0.6.0.TKXMIXM
+- Enable editable_enhanced_4g_lte_bool globally
+- Some minor changes
+
 12/10/2025
 ----------
 - Synced with latest source
