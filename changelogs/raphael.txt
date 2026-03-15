@@ -1,6 +1,16 @@
 Changelog
 =========
 
+16/03/2025
+----------
+- Sync with latest source
+- Added saturated color profile
+- Overlay: Used the new auto network selection UI
+- Overlay: Disabled high-performance transitions
+- Overlay: Added missing radio configs
+- Imported media_codecs.xml
+- Some minor changes
+
 04/12/2025
 ----------
 - Sync with latest source
